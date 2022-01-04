@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1{
@@ -17,7 +18,7 @@ section{
     padding-left: 70px;
 }
 .section_width img{
-    width: 80%;
+    width: 90%;
 }
 .link_button{
     text-decoration: none;
@@ -27,4 +28,8 @@ section{
     border-radius: 5px;
     color: honeydew;
     
+}
+.first_section{
+    background-image: url(showoff/1ST_BACKGROUND1.1.png);
+    background-repeat: no-repeat;
 }
