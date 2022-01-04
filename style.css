@@ -5,3 +5,6 @@ body{
 h1{
     font-size: 50px;
 }
+.name_color{
+    color: rgb(76, 211, 76);
+}
