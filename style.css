@@ -9,8 +9,9 @@ h1{
 .name_color{
     color: rgb(76, 211, 76);
 }
-section{
+.flexible_container{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .section_width{
