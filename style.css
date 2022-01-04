@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 50px;
 }
+h3{
+    text-align: justify;
+}
 .name_color{
     color: rgb(76, 211, 76);
 }
@@ -34,6 +37,14 @@ h1{
     background-image: url(showoff/1ST_BACKGROUND1.1.png);
     background-repeat: no-repeat;
 }
+.section2_div{
+    width: 50%;
+   
+}
+.section2_div img{
+    width: 100%;
+   
+}
 .experience_item{
     width: 40%;
     margin-left: 5%;
@@ -42,6 +53,10 @@ h1{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
     
+}
+.Work_section{
+    display: flex;
+    margin-bottom: 150px;
 }
 .experience_area{
     background-image: url(showoff/3RD_BACKGROUND.png);
