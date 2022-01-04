@@ -8,3 +8,23 @@ h1{
 .name_color{
     color: rgb(76, 211, 76);
 }
+section{
+    display: flex;
+}
+
+.section_width{
+    width: 50%;
+    padding-left: 70px;
+}
+.section_width img{
+    width: 80%;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(76, 211, 76),rgb(49, 148, 49));
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: honeydew;
+    
+}
