@@ -31,6 +31,7 @@ h3{
     padding: 10px 40px;
     border-radius: 5px;
     color: honeydew;
+    box-shadow: 5px 5px 40px gray; 
     
 }
 .first_section{
@@ -39,14 +40,24 @@ h3{
 }
 .section2_div{
     width: 50%;
-   
+    margin-right: 70px;
 }
+
 .section2_div img{
     width: 100%;
    
 }
+.work_button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(76, 211, 76),rgb(49, 148, 49));
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 40px gray; 
+}
 .experience_item{
-    width: 40%;
+    width: 50%;
     margin-left: 5%;
     margin-right: 5%;
     padding: 35px;
@@ -55,6 +66,9 @@ h3{
     
 }
 .Work_section{
+    background-image: url(showoff/2nd_BACKGROUND1.1.png);
+    background-repeat: no-repeat;
+    background-position: right;
     display: flex;
     margin-bottom: 150px;
 }
