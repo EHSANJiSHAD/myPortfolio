@@ -39,7 +39,7 @@ h3{
     color: rgb(231, 243, 236);
 }
 .first_section{
-    background-image: url(showoff/1ST_BACKGROUND1.1.png);
+    background-image: url(showOff/1ST_BACKGROUND1.1.png);
     background-repeat: no-repeat;
 }
 .section2_div{
@@ -67,7 +67,7 @@ h3{
     color: rgb(231, 243, 236);
 }
 .Work_section{
-    background-image: url(showoff/2nd_BACKGROUND1.1.png);
+    background-image: url(showOff/2nd_BACKGROUND1.1.png);
     background-repeat: no-repeat;
     background-position: right;
     display: flex;
@@ -89,7 +89,7 @@ h3{
 }
 
 .experience_area{
-    background-image: url(showoff/3RD_BACKGROUND.png);
+    background-image: url(showOff/3RD_BACKGROUND.png);
     background-repeat: no-repeat;
     background-position: left;
 }
