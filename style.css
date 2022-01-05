@@ -104,6 +104,18 @@ h3{
     border-image: linear-gradient(rgb(76, 211, 76),rgb(2, 39, 2));
     border-image-slice: 1;
 }
+
+#image-shadow1{
+    filter: drop-shadow(.75em .75em 1em gray);
+    border-radius: 10em;
+}
+#image-shadow2{
+    filter: drop-shadow(.75em .75em 1em gray);
+    border-radius: 30em;
+}
+#image-shadow2:hover{
+    background: linear-gradient(rgb(223, 226, 223),rgb(245, 247, 245)) ;
+}
 footer p{
     text-align: center;
     color: grey
